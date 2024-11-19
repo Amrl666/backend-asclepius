@@ -1,0 +1,19 @@
+{
+  "name": "backend-asclepius",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.22.0",
+    "@tensorflow/tfjs-node": "^4.22.0",
+    "express": "^4.21.1",
+    "firebase-admin": "^13.0.0",
+    "multer": "^1.4.5-lts.1"
+  }
+}
